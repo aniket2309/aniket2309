@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Aniket Sonawane
 
 💻 Backend Engineer @ RIB Software  
-🚀 4+ years of experience in building scalable fintech and real-time systems  
-⚡ Specialized in Node.js, Microservices, Kafka, and Redis  
+🚀 4+ years in fintech & real-time backend systems  
+⚡ Node.js | Kafka | Redis | Microservices | System Design  
+💳 UPI/NPCI integrations | High-scale transaction systems  
+🤖 Exploring AI & LLM-powered backend systems 
 
 ---
 
