@@ -78,6 +78,10 @@
 ## 📊 GitHub Stats
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket2309&show_icons=true&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniket2309&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket2309&theme=react-dark)
+
 ---
 
 ## 📫 Connect with Me
